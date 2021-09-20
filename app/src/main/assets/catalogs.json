@@ -1,0 +1,865 @@
+{
+  "result": [
+    {
+      "id": 3,
+      "title": "",
+      "data": [
+        {
+          "group_id": 86,
+          "filters": [],
+          "name": "طلبتها معانا",
+          "image": "https://devcdn.sary.co/PREV_EyEHEGC.png",
+          "empty_content_image": "https://devcdn.sary.co/order_2.png",
+          "empty_content_message": "ما عندك منتجات طلبتها من قبل",
+          "has_data": false,
+          "show_unavailable_items": false,
+          "show_in_brochure_link": false
+        },
+        {
+          "group_id": 260,
+          "filters": [
+            {
+              "filter_id": 36,
+              "name": "مشروبات غازية"
+            },
+            {
+              "filter_id": 82,
+              "name": "أرز"
+            },
+            {
+              "filter_id": 60,
+              "name": "مخللات"
+            },
+            {
+              "filter_id": 57,
+              "name": "زيت"
+            },
+            {
+              "filter_id": 83,
+              "name": "معكرونة"
+            },
+            {
+              "filter_id": 31,
+              "name": "عصيرات"
+            },
+            {
+              "filter_id": 30,
+              "name": "شاي"
+            },
+            {
+              "filter_id": 55,
+              "name": "التوابل والصوصات"
+            },
+            {
+              "filter_id": 52,
+              "name": "معلبات الخضار"
+            },
+            {
+              "filter_id": 88,
+              "name": "دقيق ولوازم الخبز"
+            },
+            {
+              "filter_id": 84,
+              "name": "بهارات"
+            },
+            {
+              "filter_id": 67,
+              "name": "شوكولاتة و منكهات"
+            },
+            {
+              "filter_id": 50,
+              "name": "صلصات"
+            },
+            {
+              "filter_id": 53,
+              "name": "معلبات الفواكة"
+            },
+            {
+              "filter_id": 51,
+              "name": "تونة"
+            },
+            {
+              "filter_id": 58,
+              "name": "حلويات"
+            },
+            {
+              "filter_id": 56,
+              "name": "عسل و قابل للدهن"
+            }
+          ],
+          "name": "قمة التوفير",
+          "image": "https://devcdn.sary.co/layout_groups/2020/05/01/saving_2gYwSOu.png",
+          "empty_content_image": null,
+          "empty_content_message": null,
+          "has_data": true,
+          "show_unavailable_items": false,
+          "show_in_brochure_link": false
+        },
+        {
+          "group_id": 87,
+          "filters": [
+            {
+              "filter_id": 28,
+              "name": "مياه"
+            },
+            {
+              "filter_id": 30,
+              "name": "شاي"
+            },
+            {
+              "filter_id": 31,
+              "name": "عصيرات"
+            },
+            {
+              "filter_id": 36,
+              "name": "مشروبات غازية"
+            },
+            {
+              "filter_id": 45,
+              "name": "شوكولاته"
+            },
+            {
+              "filter_id": 46,
+              "name": "بسكويت"
+            },
+            {
+              "filter_id": 48,
+              "name": "تشيبس"
+            },
+            {
+              "filter_id": 50,
+              "name": "صلصات"
+            },
+            {
+              "filter_id": 51,
+              "name": "تونة"
+            },
+            {
+              "filter_id": 52,
+              "name": "معلبات الخضار"
+            },
+            {
+              "filter_id": 55,
+              "name": "التوابل والصوصات"
+            },
+            {
+              "filter_id": 56,
+              "name": "عسل و قابل للدهن"
+            },
+            {
+              "filter_id": 57,
+              "name": "زيت"
+            },
+            {
+              "filter_id": 60,
+              "name": "مخللات"
+            },
+            {
+              "filter_id": 62,
+              "name": "أجبان"
+            },
+            {
+              "filter_id": 63,
+              "name": "حليب"
+            },
+            {
+              "filter_id": 64,
+              "name": "زبدة"
+            },
+            {
+              "filter_id": 65,
+              "name": "قشطة وكريمة"
+            },
+            {
+              "filter_id": 66,
+              "name": "مشروبات طاقة"
+            },
+            {
+              "filter_id": 72,
+              "name": "عناية الشعر"
+            },
+            {
+              "filter_id": 74,
+              "name": "العناية بالملابس"
+            },
+            {
+              "filter_id": 75,
+              "name": "العناية بالأسطح"
+            },
+            {
+              "filter_id": 76,
+              "name": "بلاستيكيات"
+            },
+            {
+              "filter_id": 77,
+              "name": "ورقيات"
+            },
+            {
+              "filter_id": 78,
+              "name": "غسيل الصحون"
+            },
+            {
+              "filter_id": 80,
+              "name": "صابون"
+            },
+            {
+              "filter_id": 82,
+              "name": "أرز"
+            },
+            {
+              "filter_id": 83,
+              "name": "معكرونة"
+            },
+            {
+              "filter_id": 84,
+              "name": "بهارات"
+            },
+            {
+              "filter_id": 85,
+              "name": "شوربة"
+            },
+            {
+              "filter_id": 86,
+              "name": "السكر والمحليات"
+            },
+            {
+              "filter_id": 88,
+              "name": "دقيق ولوازم الخبز"
+            },
+            {
+              "filter_id": 90,
+              "name": "بدائل الحليب"
+            },
+            {
+              "filter_id": 91,
+              "name": "بقوليات معلبة"
+            }
+          ],
+          "name": "مشعلل حولك",
+          "image": "https://devcdn.sary.co/HOT_bvKVHDe.png",
+          "empty_content_image": null,
+          "empty_content_message": null,
+          "has_data": true,
+          "show_unavailable_items": false,
+          "show_in_brochure_link": false
+        },
+        {
+          "group_id": 88,
+          "filters": [],
+          "name": "مفضلتك",
+          "image": "https://devcdn.sary.co/FAV_nKbqN1v.png",
+          "empty_content_image": "https://devcdn.sary.co/fav-empty_CQhiuKz.png",
+          "empty_content_message": "ما عندك منتجات في المفضلة",
+          "has_data": false,
+          "show_unavailable_items": false,
+          "show_in_brochure_link": false
+        }
+      ],
+      "data_type": "smart",
+      "show_title": false,
+      "ui_type": "grid",
+      "row_count": 4
+    },
+    {
+      "id": 9,
+      "title": "الأقسام",
+      "data": [
+        {
+          "group_id": 165,
+          "filters": [
+            {
+              "filter_id": 117,
+              "name": "تونة"
+            },
+            {
+              "filter_id": 25,
+              "name": "قابلة للدهن"
+            },
+            {
+              "filter_id": 109,
+              "name": "صلصات والصوصات"
+            },
+            {
+              "filter_id": 108,
+              "name": "البهارات"
+            },
+            {
+              "filter_id": 107,
+              "name": "للطبخ"
+            },
+            {
+              "filter_id": 116,
+              "name": "الفطور"
+            },
+            {
+              "filter_id": 258,
+              "name": "لوازم الخبز"
+            }
+          ],
+          "name": "معلبات",
+          "image": "https://devcdn.sary.co/layout_groups/2020/08/31/%D9%85%D9%80%D9%80%D8%B9%D9%80%D9%80%D9%80%D9%84%D8%A8%D8%A7%D8%AA.png",
+          "empty_content_image": null,
+          "empty_content_message": null,
+          "has_data": true,
+          "show_unavailable_items": false,
+          "show_in_brochure_link": false
+        },
+        {
+          "group_id": 162,
+          "filters": [
+            {
+              "filter_id": 137,
+              "name": "الكل"
+            }
+          ],
+          "name": "زيت",
+          "image": "https://devcdn.sary.co/layout_groups/2020/08/31/%D8%B2%D9%8A%D9%80%D9%80%D9%80%D9%80%D9%80%D8%AA.png",
+          "empty_content_image": null,
+          "empty_content_message": null,
+          "has_data": true,
+          "show_unavailable_items": false,
+          "show_in_brochure_link": false
+        },
+        {
+          "group_id": 164,
+          "filters": [
+            {
+              "filter_id": 4,
+              "name": "شوكلاته"
+            },
+            {
+              "filter_id": 65,
+              "name": "بساكيت"
+            }
+          ],
+          "name": "حلويات",
+          "image": "https://devcdn.sary.co/layout_groups/2020/08/31/%D8%AD%D9%84%D9%88%D9%8A%D8%A7%D8%AA.png",
+          "empty_content_image": null,
+          "empty_content_message": null,
+          "has_data": true,
+          "show_unavailable_items": false,
+          "show_in_brochure_link": false
+        },
+        {
+          "group_id": 245,
+          "filters": [
+            {
+              "filter_id": 246,
+              "name": "بطاطس"
+            },
+            {
+              "filter_id": 261,
+              "name": "مكسرات وفواكه مجففة"
+            }
+          ],
+          "name": "خفايف",
+          "image": "https://devcdn.sary.co/layout_groups/2020/08/31/%D8%AE%D9%81%D8%A7%D9%8A%D9%81.png",
+          "empty_content_image": null,
+          "empty_content_message": null,
+          "has_data": true,
+          "show_unavailable_items": false,
+          "show_in_brochure_link": false
+        },
+        {
+          "group_id": 153,
+          "filters": [
+            {
+              "filter_id": 154,
+              "name": "الكل"
+            }
+          ],
+          "name": "مويه",
+          "image": "https://devcdn.sary.co/layout_groups/2020/08/31/%D9%85%D9%80%D9%80%D9%80%D9%88%D9%8A%D9%80%D9%80%D9%80%D9%80%D9%87.png",
+          "empty_content_image": null,
+          "empty_content_message": null,
+          "has_data": true,
+          "show_unavailable_items": false,
+          "show_in_brochure_link": false
+        },
+        {
+          "group_id": 155,
+          "filters": [
+            {
+              "filter_id": 156,
+              "name": "الكل"
+            }
+          ],
+          "name": "مشروبات غازية",
+          "image": "https://devcdn.sary.co/layout_groups/2020/08/31/%D9%85%D8%B4%D8%B1%D9%88%D8%A8%D8%A7%D8%AA_%D8%BA%D8%A7%D8%B2%D9%8A%D8%A9.png",
+          "empty_content_image": null,
+          "empty_content_message": null,
+          "has_data": true,
+          "show_unavailable_items": false,
+          "show_in_brochure_link": false
+        },
+        {
+          "group_id": 157,
+          "filters": [
+            {
+              "filter_id": 158,
+              "name": "الكل"
+            }
+          ],
+          "name": "طاقة وشعير",
+          "image": "https://devcdn.sary.co/layout_groups/2020/08/31/%D8%B7%D8%A7%D9%82%D8%A9_%D9%88%D8%B4%D8%B9%D9%8A%D8%B1.png",
+          "empty_content_image": null,
+          "empty_content_message": null,
+          "has_data": true,
+          "show_unavailable_items": false,
+          "show_in_brochure_link": false
+        },
+        {
+          "group_id": 159,
+          "filters": [
+            {
+              "filter_id": 160,
+              "name": "الكل"
+            }
+          ],
+          "name": "عصيرات",
+          "image": "https://devcdn.sary.co/layout_groups/2020/08/31/%D8%B9%D8%B5%D9%8A%D8%B1%D8%A7%D8%AA.png",
+          "empty_content_image": null,
+          "empty_content_message": null,
+          "has_data": true,
+          "show_unavailable_items": false,
+          "show_in_brochure_link": false
+        },
+        {
+          "group_id": 248,
+          "filters": [
+            {
+              "filter_id": 250,
+              "name": "مستلزمات المكتب"
+            },
+            {
+              "filter_id": 251,
+              "name": "مستلزمات المدرسة"
+            },
+            {
+              "filter_id": 252,
+              "name": "لوازم فنية و حرفية"
+            },
+            {
+              "filter_id": 249,
+              "name": "مستلزمات الكمبيوتر"
+            }
+          ],
+          "name": "قرطاسية",
+          "image": "https://devcdn.sary.co/layout_groups/2020/08/31/%D9%82%D8%B1%D8%B7%D8%A7%D8%B3%D9%8A%D8%A9.png",
+          "empty_content_image": null,
+          "empty_content_message": null,
+          "has_data": true,
+          "show_unavailable_items": false,
+          "show_in_brochure_link": false
+        },
+        {
+          "group_id": 166,
+          "filters": [
+            {
+              "filter_id": 95,
+              "name": "الشاي"
+            },
+            {
+              "filter_id": 94,
+              "name": "القهوة"
+            }
+          ],
+          "name": "شاي وقهوة",
+          "image": "https://devcdn.sary.co/layout_groups/2020/08/31/%D8%B4%D8%A7%D9%8A_%D9%88_%D9%82%D9%87%D9%88%D8%A9.png",
+          "empty_content_image": null,
+          "empty_content_message": null,
+          "has_data": true,
+          "show_unavailable_items": false,
+          "show_in_brochure_link": false
+        },
+        {
+          "group_id": 161,
+          "filters": [
+            {
+              "filter_id": 105,
+              "name": "المكرونة"
+            },
+            {
+              "filter_id": 106,
+              "name": "رز"
+            }
+          ],
+          "name": "رز ومكرونة",
+          "image": "https://devcdn.sary.co/layout_groups/2020/08/31/%D8%B1%D8%B2_%D9%88%D9%85%D9%83%D8%B1%D9%88%D9%86%D8%A9.png",
+          "empty_content_image": null,
+          "empty_content_message": null,
+          "has_data": true,
+          "show_unavailable_items": false,
+          "show_in_brochure_link": false
+        },
+        {
+          "group_id": 167,
+          "filters": [
+            {
+              "filter_id": 115,
+              "name": "الكل"
+            }
+          ],
+          "name": "حليب",
+          "image": "https://devcdn.sary.co/layout_groups/2020/08/31/%D8%AD%D9%80%D9%80%D9%80%D9%80%D9%84%D9%8A%D9%80%D9%80%D9%80%D9%80%D8%A8.png",
+          "empty_content_image": null,
+          "empty_content_message": null,
+          "has_data": true,
+          "show_unavailable_items": false,
+          "show_in_brochure_link": false
+        },
+        {
+          "group_id": 90,
+          "filters": [
+            {
+              "filter_id": 91,
+              "name": "غسيل الملابس"
+            },
+            {
+              "filter_id": 93,
+              "name": "بلاستيكيات ومنظفات"
+            },
+            {
+              "filter_id": 96,
+              "name": "المطبخ"
+            },
+            {
+              "filter_id": 119,
+              "name": "غسيل الصحون"
+            }
+          ],
+          "name": "احتياجات المنزل",
+          "image": "https://devcdn.sary.co/layout_groups/2020/08/31/%D8%A7%D9%84%D9%85%D9%86%D8%B2%D9%84.png",
+          "empty_content_image": null,
+          "empty_content_message": null,
+          "has_data": true,
+          "show_unavailable_items": false,
+          "show_in_brochure_link": false
+        },
+        {
+          "group_id": 31,
+          "filters": [
+            {
+              "filter_id": 33,
+              "name": "خضروات"
+            },
+            {
+              "filter_id": 32,
+              "name": "فواكه"
+            },
+            {
+              "filter_id": 34,
+              "name": "ورقيات"
+            }
+          ],
+          "name": "طازج",
+          "image": "https://devcdn.sary.co/layout_groups/2020/08/31/%D8%B7%D9%80%D9%80%D9%80%D9%80%D9%80%D8%A7%D8%B2%D8%AC.png",
+          "empty_content_image": null,
+          "empty_content_message": null,
+          "has_data": true,
+          "show_unavailable_items": false,
+          "show_in_brochure_link": false
+        },
+        {
+          "group_id": 264,
+          "filters": [
+            {
+              "filter_id": 265,
+              "name": "العناية بالجسم"
+            },
+            {
+              "filter_id": 266,
+              "name": "العناية بالشعر"
+            },
+            {
+              "filter_id": 267,
+              "name": "العناية بالأسنان"
+            }
+          ],
+          "name": "العناية الشخصية",
+          "image": "https://devcdn.sary.co/layout_groups/2020/08/31/%D8%A7%D9%84%D8%B9%D9%86%D8%A7%D9%8A%D8%A9_%D8%A7%D9%84%D8%B4%D8%AE%D8%B5%D9%8A%D8%A9.png",
+          "empty_content_image": null,
+          "empty_content_message": null,
+          "has_data": true,
+          "show_unavailable_items": false,
+          "show_in_brochure_link": false
+        }
+      ],
+      "data_type": "group",
+      "show_title": true,
+      "ui_type": "grid",
+      "row_count": 4
+    },
+    {
+      "id": 25,
+      "title": "",
+      "data": [
+        {
+          "image": "https://devcdn.sary.co/Back_to_school_Group_Offer_Banners-AR_KAlq9Ll.png",
+          "deep_link": "sary://sary.com/group?id=301"
+        },
+        {
+          "image": "https://devcdn.sary.co/Smashing_Offers_Group_Offer_Banners-01.png",
+          "deep_link": "sary://sary.com/group?id=294"
+        }
+      ],
+      "data_type": "banner",
+      "show_title": false,
+      "ui_type": "grid",
+      "row_count": 2
+    },
+    {
+      "id": 13,
+      "title": "جهز منشأتك",
+      "data": [
+        {
+          "group_id": 185,
+          "filters": [
+            {
+              "filter_id": 186,
+              "name": "مويه"
+            },
+            {
+              "filter_id": 187,
+              "name": "حليب"
+            },
+            {
+              "filter_id": 191,
+              "name": "شيرة و منكهات"
+            },
+            {
+              "filter_id": 189,
+              "name": "فواكه"
+            },
+            {
+              "filter_id": 190,
+              "name": "بلاستيكيات و منظفات"
+            },
+            {
+              "filter_id": 188,
+              "name": "حلويات"
+            }
+          ],
+          "name": "مقاهي",
+          "image": "https://devcdn.sary.co/layout_groups/2020/02/16/%D9%85%D9%82%D8%A7%D9%87%D9%8A.png",
+          "empty_content_image": null,
+          "empty_content_message": null,
+          "has_data": true,
+          "show_unavailable_items": false,
+          "show_in_brochure_link": false
+        },
+        {
+          "group_id": 192,
+          "filters": [
+            {
+              "filter_id": 194,
+              "name": "مويه"
+            },
+            {
+              "filter_id": 195,
+              "name": "حليب"
+            },
+            {
+              "filter_id": 197,
+              "name": "شاي و قهوة"
+            },
+            {
+              "filter_id": 199,
+              "name": "حلويات"
+            },
+            {
+              "filter_id": 201,
+              "name": "بلاستيكيات و منظفات"
+            },
+            {
+              "filter_id": 196,
+              "name": "عصيرات"
+            },
+            {
+              "filter_id": 200,
+              "name": "فواكه"
+            },
+            {
+              "filter_id": 198,
+              "name": "بطاطس"
+            },
+            {
+              "filter_id": 202,
+              "name": "شيرة و منكهات"
+            }
+          ],
+          "name": "مكاتب",
+          "image": "https://devcdn.sary.co/layout_groups/2020/02/16/%D9%85%D9%83%D8%A7%D8%AA%D8%A8.png",
+          "empty_content_image": null,
+          "empty_content_message": null,
+          "has_data": true,
+          "show_unavailable_items": false,
+          "show_in_brochure_link": false
+        },
+        {
+          "group_id": 177,
+          "filters": [
+            {
+              "filter_id": 178,
+              "name": "مويه"
+            },
+            {
+              "filter_id": 179,
+              "name": "مشروبات غازية"
+            },
+            {
+              "filter_id": 181,
+              "name": "رز و مكرونة"
+            },
+            {
+              "filter_id": 180,
+              "name": "زيت"
+            },
+            {
+              "filter_id": 183,
+              "name": "بلاستيكيات و منظفات"
+            },
+            {
+              "filter_id": 184,
+              "name": "شيرة و منكهات"
+            }
+          ],
+          "name": "مطاعم",
+          "image": "https://devcdn.sary.co/layout_groups/2020/02/16/%D9%85%D8%B7%D8%A7%D8%B9%D9%85.png",
+          "empty_content_image": null,
+          "empty_content_message": null,
+          "has_data": true,
+          "show_unavailable_items": false,
+          "show_in_brochure_link": false
+        },
+        {
+          "group_id": 203,
+          "filters": [
+            {
+              "filter_id": 204,
+              "name": "مويه"
+            },
+            {
+              "filter_id": 205,
+              "name": "مشروبات غازية"
+            },
+            {
+              "filter_id": 214,
+              "name": "حليب"
+            },
+            {
+              "filter_id": 208,
+              "name": "رز و مكرونة"
+            },
+            {
+              "filter_id": 207,
+              "name": "زيت"
+            },
+            {
+              "filter_id": 209,
+              "name": "شاي و قهوة"
+            },
+            {
+              "filter_id": 212,
+              "name": "بلاستيكيات و منظفات"
+            },
+            {
+              "filter_id": 206,
+              "name": "عصيرات"
+            },
+            {
+              "filter_id": 210,
+              "name": "حلويات"
+            },
+            {
+              "filter_id": 213,
+              "name": "شيرة و منكهات"
+            },
+            {
+              "filter_id": 215,
+              "name": "بطاطس"
+            }
+          ],
+          "name": "فنادق",
+          "image": "https://devcdn.sary.co/layout_groups/2020/02/16/%D9%81%D9%86%D8%A7%D8%AF%D9%82.png",
+          "empty_content_image": null,
+          "empty_content_message": null,
+          "has_data": true,
+          "show_unavailable_items": false,
+          "show_in_brochure_link": false
+        },
+        {
+          "group_id": 216,
+          "filters": [
+            {
+              "filter_id": 217,
+              "name": "مويه"
+            },
+            {
+              "filter_id": 218,
+              "name": "مشروبات غازية"
+            },
+            {
+              "filter_id": 219,
+              "name": "بطاطس"
+            },
+            {
+              "filter_id": 220,
+              "name": "حليب"
+            },
+            {
+              "filter_id": 221,
+              "name": "عصيرات"
+            },
+            {
+              "filter_id": 222,
+              "name": "رز و مكرونة"
+            },
+            {
+              "filter_id": 223,
+              "name": "زيت"
+            },
+            {
+              "filter_id": 224,
+              "name": "شاي و قهوة"
+            },
+            {
+              "filter_id": 225,
+              "name": "حلويات"
+            },
+            {
+              "filter_id": 227,
+              "name": "بلاستيكيات و منظفات"
+            }
+          ],
+          "name": "بقالات",
+          "image": "https://devcdn.sary.co/layout_groups/2020/04/28/%D9%A3_copy_2.png",
+          "empty_content_image": null,
+          "empty_content_message": null,
+          "has_data": true,
+          "show_unavailable_items": false,
+          "show_in_brochure_link": false
+        }
+      ],
+      "data_type": "group",
+      "show_title": true,
+      "ui_type": "grid",
+      "row_count": 3
+    }
+  ],
+  "other": {
+    "show_special_order_view": true,
+    "uncompleted_profile_settings": {
+      "show_tag": false,
+      "message": "اضغط هنا لإكمال معلومات الحساب",
+      "image": "https://devcdn.sary.co/uncompleted_profile/2020/05/Combined_Shape.png",
+      "is_completed_profile": false
+    },
+    "business_status": {
+      "id": 1,
+      "title": "حساب موثّق"
+    }
+  },
+  "message": "fetched successfully",
+  "status": true
+}

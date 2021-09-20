@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Sewar/AndroidStudioProjects/Sary/app/src/main/res/drawable/bg_address.xml" value="0.36512820512820515" />
+        <entry key="..\:/Users/Sewar/AndroidStudioProjects/Sary/app/src/main/res/drawable/bg_catalog_layout_group_smart.xml" value="0.36512820512820515" />
+        <entry key="..\:/Users/Sewar/AndroidStudioProjects/Sary/app/src/main/res/drawable/ic_baseline_chevron_right_24.xml" value="0.36512820512820515" />
+        <entry key="..\:/Users/Sewar/AndroidStudioProjects/Sary/app/src/main/res/layout/activity_main.xml" value="0.25555555555555554" />
+        <entry key="..\:/Users/Sewar/AndroidStudioProjects/Sary/app/src/main/res/layout/banner_fragment.xml" value="0.3490740740740741" />
+        <entry key="..\:/Users/Sewar/AndroidStudioProjects/Sary/app/src/main/res/layout/catalog_layout_banners.xml" value="0.3490740740740741" />
+        <entry key="..\:/Users/Sewar/AndroidStudioProjects/Sary/app/src/main/res/layout/catalog_layout_catalog.xml" value="0.3490740740740741" />
+        <entry key="..\:/Users/Sewar/AndroidStudioProjects/Sary/app/src/main/res/layout/catalog_layout_group.xml" value="0.3490740740740741" />
+        <entry key="..\:/Users/Sewar/AndroidStudioProjects/Sary/app/src/main/res/layout/catalog_layout_group_banner.xml" value="0.3490740740740741" />
+        <entry key="..\:/Users/Sewar/AndroidStudioProjects/Sary/app/src/main/res/layout/catalog_layout_group_group.xml" value="0.3490740740740741" />
+        <entry key="..\:/Users/Sewar/AndroidStudioProjects/Sary/app/src/main/res/layout/catalog_layout_group_smart.xml" value="0.3490740740740741" />
+        <entry key="..\:/Users/Sewar/AndroidStudioProjects/Sary/app/src/main/res/layout/main_activity.xml" value="0.3490740740740741" />
+        <entry key="..\:/Users/Sewar/AndroidStudioProjects/Sary/app/src/main/res/layout/main_fragment.xml" value="0.3490740740740741" />
+        <entry key="..\:/Users/Sewar/AndroidStudioProjects/Sary/app/src/main/res/layout/store_fragment.xml" value="0.3490740740740741" />
+        <entry key="..\:/Users/Sewar/AndroidStudioProjects/Sary/app/src/main/res/menu/bottom_nav.xml" value="0.25555555555555554" />
+        <entry key="..\:/Users/Sewar/AndroidStudioProjects/Sary/app/src/main/res/xml/network_security_config.xml" value="0.3490740740740741" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
